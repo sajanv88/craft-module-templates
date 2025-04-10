@@ -16,6 +16,9 @@
         <NoDefaultExcludes>true</NoDefaultExcludes>
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <IncludeContentInPack>true</IncludeContentInPack>
+        <RepositoryType>git</RepositoryType>
+        <RepositoryUrl>https://github.com/sajanv88/craft-module-templates/tree/main/basic-api</RepositoryUrl>
+        <PackageLicenseUrl>https://github.com/sajanv88/craft-module-templates/blob/main/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>
