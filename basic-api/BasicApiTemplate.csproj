@@ -11,6 +11,7 @@
         <ContentTargetFolders>content</ContentTargetFolders>   
         <IsPackable>true</IsPackable>
         <PackageTags>craft;modularity;template;minimalapi;api</PackageTags>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <EnableDefaultContentItems>false</EnableDefaultContentItems>        
         <NoDefaultExcludes>true</NoDefaultExcludes>
@@ -18,7 +19,6 @@
         <IncludeContentInPack>true</IncludeContentInPack>
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/sajanv88/craft-module-templates/tree/main/basic-api</RepositoryUrl>
-        <PackageLicenseUrl>https://github.com/sajanv88/craft-module-templates/blob/main/LICENSE</PackageLicenseUrl>
     </PropertyGroup>
 
     <ItemGroup>
@@ -28,6 +28,8 @@
         <Content Include=".template-config\*"  />
         <Content Include=".gitignore" Pack="true" PackagePath="\"/>
         <None Include="README.md" Pack="true" PackagePath="\"/>
+        <None Include="..\LICENSE" Pack="true" PackagePath="\"/>
+        
     </ItemGroup>
 
 </Project>
