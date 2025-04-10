@@ -12,7 +12,6 @@
         <IsPackable>true</IsPackable>
         <PackageTags>craft;modularity;template;minimalapi;api</PackageTags>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <EnableDefaultContentItems>false</EnableDefaultContentItems>        
         <NoDefaultExcludes>true</NoDefaultExcludes>
         <IncludeBuildOutput>false</IncludeBuildOutput>
