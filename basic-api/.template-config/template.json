@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sajankumar Vijayan",
+  "description": "A sleek, modular Basic Minimal API starter project template powered by the Craft Module library.",
+  "classifications": [ "WebAPI" ],
+  "identity": "Craft.CraftModule.Templates.BasicApi",
+  "name": "Craft Module Minimal API",
+  "shortName": "cm-basic-api",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BasicApi"
+}
+

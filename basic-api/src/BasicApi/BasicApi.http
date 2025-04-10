@@ -1,0 +1,6 @@
+@BasicApi_HostAddress = https://localhost:7111
+
+GET {{BasicApi_HostAddress}}/api/forecast/
+Accept: application/json
+
+###
