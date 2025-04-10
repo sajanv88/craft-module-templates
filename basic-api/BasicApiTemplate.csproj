@@ -3,7 +3,7 @@
     <PropertyGroup>
         <PackageId>Craft.CraftModule.Templates.BasicApi</PackageId>
         <TargetFramework>net9.0</TargetFramework>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>Sajankumar Vijayan</Authors>
         <description>A sleek, modular Basic Minimal API starter project template powered by the Craft Module library.</description>
         <PackageType>Template</PackageType>
